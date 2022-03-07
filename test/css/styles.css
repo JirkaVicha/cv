@@ -1,0 +1,46 @@
+body {
+  background-color: #9AD0EC;
+  text-align: center;
+}
+
+h3 {
+  width: 90%;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  width: 90%;
+  color: grey;
+  font-size: 1.19rem;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #11999E;
+}
+
+.container {
+  position: relative;
+  background-color: #ffff;
+  width: 30%;
+  margin: 30px auto;
+  border-radius: 8px;
+  padding-bottom: 40px;
+}
+
+.qr-image {
+  width: 90%;
+  margin:20px 20px auto;
+  border-radius: 8px;
+}
+
+.attribution {
+  color: #203239;
+  font-size: 0.7rem;
+  padding: 20px 0;
+}
